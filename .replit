@@ -1,0 +1,1 @@
+run = "while true; do npx node .; sleep 2; done"
